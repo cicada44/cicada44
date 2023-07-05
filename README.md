@@ -3,7 +3,8 @@
 ## 📝 About Me
 Hello there! My name is Ilya, and I'm a passionate Software Engineer. I have a strong interest in C++/Python and OpenCV. This is my GitHub profile where I showcase my projects, contributions, and share my knowledge with the community.
 
-[![Cicada's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicada44)](https://github.com/cicada44/github-readme-stats)
+[![Cicada's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicada44&theme=radical)](https://github.com/cicada44/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicada44&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Skills
 
@@ -38,4 +39,3 @@ Feel free to reach out to me if you have any questions, suggestions, or if you'd
 <a href="https://github.com/DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=DSA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DSA" />
 </a>
-
