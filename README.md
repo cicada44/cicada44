@@ -27,7 +27,7 @@ Feel free to reach out to me if you have any questions, suggestions, or if you'd
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/cicada44/SimpleComputer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=SimpleComputer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SimpleComputer" />
+  <img align="center" src="" alt="SimpleComputer" />
 </a>
 <a href="https://github.com/Caches">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=caches&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Caches" />
