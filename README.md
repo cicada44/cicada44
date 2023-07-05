@@ -35,9 +35,6 @@ Feel free to reach out to me if you have any questions, suggestions, or if you'd
 <a href="https://github.com/minor-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=minor-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="minor-projects" />
 </a>
-<a href="https://github.com/leetcode-problems">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=leetcode-problems&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="leetcode-problems" />
-</a>
 <a href="https://github.com/DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=DSA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DSA" />
 </a>
