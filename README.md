@@ -3,7 +3,7 @@
 ## 📝 About Me
 Hello there! My name is Ilya, and I'm a passionate Software Engineer. I have a strong interest in C++/Python and OpenCV. This is my GitHub profile where I showcase my projects, contributions, and share my knowledge with the community.
 
-### [Here's my CV](./cv.pdf)
+### [Here is my CV](./cv.pdf)
 
 [![Cicada's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicada44&theme=dark)](https://github.com/cicada44/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicada44&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
