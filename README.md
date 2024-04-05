@@ -35,19 +35,17 @@
 - [Telegram](https://t.me/cicada44)
 - Email: hubbleadd@bk.ru
 
-Feel free to reach out to me if you have any questions, suggestions, or if you'd like to collaborate on a project!
-
 ## 🗂️ Highlight projects
 
 <a href="https://github.com/cicada44/SimpleComputer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=SimpleComputer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=222222" alt="SimpleComputer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=SimpleComputer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=dark" alt="SimpleComputer" />
 </a>
-<a href="https://github.com/cicada44/Caches">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=caches&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=222222" alt="Caches" />
+<a href="https://github.com/cicada44/full-text-search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=full-text-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=dark" alt="full-text-search" />
 </a>
 <a href="https://github.com/cicada44/minor-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=minor-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=222222" alt="minor-projects" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=minor-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=dark" alt="minor-projects" />
 </a>
 <a href="https://github.com/cicada44/DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=DSA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=222222" alt="DSA" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cicada44&repo=DSA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=dark" alt="DSA" />
 </a>
